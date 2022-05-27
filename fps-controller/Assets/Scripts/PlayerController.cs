@@ -3,6 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// @scene      Colonial City LittlePack > Colonial Graveyard >Scenes > Colonial_graveyard
+/// @gObj       Player
+/// </summary>
 public class PlayerController : MonoBehaviour
 {
     // [SerializeField] 
